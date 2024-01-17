@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Tuan2
 {
-    internal class Shape
+    internal abstract class Shape
     {
         public Point location;
         public int borderWidth;
